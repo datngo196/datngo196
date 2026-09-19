@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Về mình
-- 🔭 Hiện tại mình là sinh viên năm 2, đang học tập và nghiên cứu về **Trí tuệ nhân tạo**.  
+- 🔭 Hiện tại mình là sinh viên năm 4, đang học tập và nghiên cứu về **Trí tuệ nhân tạo**.  
 - 🌱 Mình quan tâm đến các lĩnh vực: **Computer Vision, Natural Language Processing, Search Engine, và Machine Learning ứng dụng**.  
 - ⚡ Mục tiêu của mình là trở thành một **AI Engineer**, áp dụng AI để giải quyết các bài toán thực tế trong đời sống và doanh nghiệp.  
 
