@@ -31,9 +31,5 @@
 ## 📫 Liên hệ với mình
 - 📧 Email: **[datngo2005@gmail.com](mailto:datngo2005@gmail.com)**  
 - 🌐 LinkedIn: [linkedin.com/in/huudatngo196](www.linkedin.com/in/huudatngo196)
-- 💬 Facebook: [facebook.com/datngo.1906](https://www.facebook.com/datngo.1906/)  
 
----
-
-⭐️ *Cảm ơn vì đã ghé thăm GitHub của mình! Nếu bạn thấy dự án nào hữu ích, đừng ngại **star** hoặc **fork** nhé!*  
 
